@@ -17,7 +17,7 @@ elif n==1:
 elif n==2:
     print("1")
 else:
-    fibonacci(n)
+    fibonacci(n-2)
 
 
     
